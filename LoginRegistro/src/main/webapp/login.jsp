@@ -9,7 +9,7 @@
     <link href="css/style.css" rel="stylesheet" type="text/css"/> 
     <title>login y registro</title>
 
-</head> a
+</head>  <!-- JEJEJEJEJEJEEEEEEEEEEEE -->
 
 <body>
     <div class="LOGIN">
